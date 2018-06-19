@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+
+#ignore generated files
+node_modules
+
